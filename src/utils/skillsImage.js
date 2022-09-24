@@ -10,6 +10,8 @@ import angular from '../assets/svg/skills/angular.svg'
 import javascript from '../assets/svg/skills/javascript.svg'
 import nextJS from '../assets/svg/skills/nextJS.svg'
 import nuxtJS from '../assets/svg/skills/nuxtJS.svg'
+import nodejs from '../assets/svg/skills/Nodejs.png'
+import netlify from '../assets/svg/skills/netlify.svg'
 import react from '../assets/svg/skills/react.svg'
 import svelte from '../assets/svg/skills/svelte.svg'
 import typescript from '../assets/svg/skills/typescript.svg'
@@ -103,6 +105,10 @@ export const skillsImage = (skill) => {
             return nextJS;
         case 'nuxt js':
             return nuxtJS;
+        case 'node js':
+            return nodejs ;
+        case 'netlify':
+            return netlify;
         case 'react':
             return react;
         case 'svelte':
