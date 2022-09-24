@@ -14,10 +14,10 @@ function HomePage() {
             <Navbar />
             <Landing />
             <About />
-            <Education />
-            <Skills />
-            <Experience />
             <Projects />
+            <Skills />
+            <Education />
+            <Experience />
             <Blog />
             <Contacts />
         </div>
