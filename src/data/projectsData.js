@@ -27,7 +27,7 @@ export const projectsData = [
     projectName: 'Netflix Clone',
     projectDesc:
       'This project is a netlfix clone where users can view movies lists',
-    tags: ['React', 'Express', 'Material Ui'],
+    tags: ['MERN'],
     code: 'https://github.com/RagulMJ/Youtube-clone',
     demo: 'https://youtube-clone-rj.netlify.app/auth',
     image: netflix,
@@ -36,7 +36,7 @@ export const projectsData = [
     id: 3,
     projectName: 'Chat App',
     projectDesc: 'This project about real time chat application',
-    tags: ['React', 'CSS', 'Material Ui'],
+    tags: ['React', 'CSS', 'NodeJS'],
     code: 'https://github.com/said7388/Travel-Agency-client',
     demo: 'https://chat-app-rj.netlify.app/',
     image: chat,
@@ -56,8 +56,8 @@ export const projectsData = [
     projectName: 'Pathfinder',
     projectDesc: 'A Simple Pathfinding visualizer algorithms',
     tags: ['React', 'Bootstrap'],
-    code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
+    code: 'https://github.com/RagulMJ/pathfinding_visualizer',
+    demo: 'https://pathfinder-rj.netlify.app/',
     image: pathfinder,
   },
 ];

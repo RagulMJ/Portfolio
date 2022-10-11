@@ -24,8 +24,8 @@ function HomePage() {
       <Navbar />
       <Landing />
       <About />
-      <Projects />
       <Skills />
+      <Projects />
       <Education />
       <Experience />
       {/* <Blog /> */}

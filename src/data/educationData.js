@@ -17,8 +17,8 @@ export const educationData = [
     id: 3,
     institution: 'Vetri vikaas higher sec school',
     course: 'Higher Secondary',
-    startYear: '2012',
-    endYear: '2010',
+    startYear: '2010',
+    endYear: '2012',
   },
   {
     id: 4,
