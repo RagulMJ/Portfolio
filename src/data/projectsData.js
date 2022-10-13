@@ -16,7 +16,8 @@ export const projectsData = [
   {
     id: 1,
     projectName: 'Youtube Clone',
-    projectDesc: 'This project is a clone of youtube website',
+    projectDesc:
+      'Responsive MERN Stack project with firebase authentication.a website to view youtube content',
     tags: ['React', 'SAAS', 'React Bootstrap'],
     code: '',
     demo: 'https://youtube-clone-rj.netlify.app/auth',
@@ -25,8 +26,7 @@ export const projectsData = [
   {
     id: 2,
     projectName: 'Netflix Clone',
-    projectDesc:
-      'This project is a netlfix clone where users can view movies lists',
+    projectDesc: '',
     tags: ['MERN'],
     code: 'https://github.com/RagulMJ/Youtube-clone',
     demo: 'https://youtube-clone-rj.netlify.app/auth',
@@ -45,7 +45,7 @@ export const projectsData = [
     id: 4,
     projectName: 'E-Commerce Store',
     projectDesc:
-      'This project involves the development of an e-commerce store where users can buy products.',
+      'Responsive MERN Stack project with jwt authentication with Paypal payment. Customers can buy products listed in site.',
     tags: ['React', 'NodeJS', 'MongoDB'],
     code: 'https://github.com/RagulMJ/e-commerce_frontend',
     demo: 'https://mern-store-rj.netlify.app/',
