@@ -91,7 +91,7 @@ function SingleProject({
               />
             </a>
             <a
-              href={code}
+              href={code_1}
               target="_blank"
               rel="noreferrer"
               className={classes.iconBtn}
